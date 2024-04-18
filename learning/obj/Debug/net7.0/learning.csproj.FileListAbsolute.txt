@@ -1,0 +1,15 @@
+/Users/mohammedyounes/Projects/learning/learning/bin/Debug/net7.0/learning
+/Users/mohammedyounes/Projects/learning/learning/bin/Debug/net7.0/learning.deps.json
+/Users/mohammedyounes/Projects/learning/learning/bin/Debug/net7.0/learning.runtimeconfig.json
+/Users/mohammedyounes/Projects/learning/learning/bin/Debug/net7.0/learning.dll
+/Users/mohammedyounes/Projects/learning/learning/bin/Debug/net7.0/learning.pdb
+/Users/mohammedyounes/Projects/learning/learning/obj/Debug/net7.0/learning.csproj.AssemblyReference.cache
+/Users/mohammedyounes/Projects/learning/learning/obj/Debug/net7.0/learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedyounes/Projects/learning/learning/obj/Debug/net7.0/learning.AssemblyInfoInputs.cache
+/Users/mohammedyounes/Projects/learning/learning/obj/Debug/net7.0/learning.AssemblyInfo.cs
+/Users/mohammedyounes/Projects/learning/learning/obj/Debug/net7.0/learning.csproj.CoreCompileInputs.cache
+/Users/mohammedyounes/Projects/learning/learning/obj/Debug/net7.0/learning.dll
+/Users/mohammedyounes/Projects/learning/learning/obj/Debug/net7.0/refint/learning.dll
+/Users/mohammedyounes/Projects/learning/learning/obj/Debug/net7.0/learning.pdb
+/Users/mohammedyounes/Projects/learning/learning/obj/Debug/net7.0/learning.genruntimeconfig.cache
+/Users/mohammedyounes/Projects/learning/learning/obj/Debug/net7.0/ref/learning.dll
